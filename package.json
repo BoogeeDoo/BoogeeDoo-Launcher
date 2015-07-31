@@ -27,7 +27,8 @@
     "electron-app"
   ],
   "dependencies": {
-    "electron-debug": "^0.1.1"
+    "electron-debug": "^0.1.1",
+    "mcnbt": "0.0.3-alpha"
   },
   "devDependencies": {
     "electron-packager": "^5.0.0",
